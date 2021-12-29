@@ -1,6 +1,7 @@
 # AngularCrash
 
 The code in this project is written during a Code Along Session of a youtube Angular crash course taught by Traversy Media [Couse Link](https://www.youtube.com/watch?v=3dHNOWTI7H8&t=3s)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 
